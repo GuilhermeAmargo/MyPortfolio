@@ -48,98 +48,98 @@ export default function Home() {
       title: 'Screen Saver',
       description: 'Aplicação JavaFX que anima um retângulo colorido quicando nas bordas da janela.',
       imageUrl: '/images/ScreenSaver.png',
-      link: '/project5', // Link para a página do Projeto 4
+      link: '/project5', // Link para a página do Projeto 5
     },
     {
       id: 6,
-      title: 'Projeto 6',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      title: 'Draw Screen',
+      description: 'Este projeto em Java implementa um protetor de tela (screensaver) com formas geométricas animadas utilizando Swing e AWT.',
+      imageUrl: '/images/Draw Screen.png',
+      link: '/project6', // Link para a página do Projeto 6
     },
     {
       id: 7,
-      title: 'Projeto 7',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      title: 'Sistema de Gestão de Cafeteria',
+      description: 'Sistema desenvolvido para gerenciar pedidos, estoque e vendas em cafeterias, otimizando operações e auxiliando no controle financeiro.',
+      imageUrl: '/images/CafeManager.png',
+      link: '/project7', // Link para a página do Projeto 7
     },
     {
       id: 8,
-      title: 'Projeto 8',
+      title: 'MVC Cafeteria',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 8
     },
     {
       id: 9,
       title: 'Projeto 9',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 9
     },
     {
       id: 10,
       title: 'Projeto 10',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 10
     },
     {
       id: 11,
       title: 'Projeto 11',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 11
     },
     {
       id: 12,
       title: 'Projeto 12',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 12
     },
     {
       id: 13,
       title: 'Projeto 13',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 13
     },
     {
       id: 14,
       title: 'projeto 14',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 14
     },
     {
       id: 15,
       title: 'Projeto 15',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 15
     },
     {
       id: 16,
       title: 'Projeto 16',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 16
     },
     {
       id: 17,
       title: 'Projeto 17',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 17
     },
     {
       id: 18,
       title: 'Projeto 18',
       description: '',
       imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 4
+      link: '/project4', // Link para a página do Projeto 18
     },
   ];
 
