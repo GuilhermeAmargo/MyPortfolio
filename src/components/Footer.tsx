@@ -10,7 +10,7 @@ export default function Footer() {
         <nav className="flex gap-4">
           <Link href="/" className="hover:underline">Início</Link>
           <Link href="/projects" className="hover:underline">Projetos</Link>
-          <Link href="/contato" className="hover:underline">Contato</Link>
+          <Link href="/contact" className="hover:underline">Contato</Link>
         </nav>
       </div>
     </footer>

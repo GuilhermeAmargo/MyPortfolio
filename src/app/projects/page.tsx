@@ -67,79 +67,51 @@ export default function Home() {
     {
       id: 8,
       title: 'MVC Cafeteria',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 8
+      description: 'Projeto de sistema de gestão de pedidos para cafeterias utilizando o padrão MVC (Model-View-Controller).',
+      imageUrl: '/images/MVC.png',
+      link: '/project8', // Link para a página do Projeto 8
     },
     {
       id: 9,
-      title: 'Projeto 9',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 9
+      title: 'Tutorial Expo',
+      description: 'Tutorial de como criar um aplicativo mobile utilizando Expo.',
+      imageUrl: '/images/ExpoTutorial.png',
+      link: '/project9', // Link para a página do Projeto 9
     },
     {
       id: 10,
-      title: 'Projeto 10',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 10
+      title: 'Expo AsyncStorage, Câmera, Timer e Map',
+      description: 'Tutorial de como utilizar AsyncStorage, Câmera, Timer e Map no Expo.',
+      imageUrl: '/images/ToDo.jpg',
+      link: '/project10', // Link para a página do Projeto 10
     },
     {
       id: 11,
-      title: 'Projeto 11',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 11
+      title: 'Expo UI',
+      description: 'Tutorial de como utilizar componentes de UI no Expo.',
+      imageUrl: '/images/Tela8.png',
+      link: '/project11', // Link para a página do Projeto 11
     },
     {
       id: 12,
-      title: 'Projeto 12',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 12
+      title: 'Quiz Pokémon',
+      description: 'Quiz sobre Pokémon utilizando Expo.',
+      imageUrl: '/images/Quiz.png',
+      link: '/project12', // Link para a página do Projeto 12
     },
     {
       id: 13,
-      title: 'Projeto 13',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 13
+      title: 'Aplicativo Expo de fatos',
+      description: 'Aplicativo Expo que exibe fatos interessantes sobre diversos temas.',
+      imageUrl: '/images/TelaC.png',
+      link: '/project14', // Link para a página do Projeto 14
     },
     {
       id: 14,
-      title: 'projeto 14',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 14
-    },
-    {
-      id: 15,
-      title: 'Projeto 15',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 15
-    },
-    {
-      id: 16,
-      title: 'Projeto 16',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 16
-    },
-    {
-      id: 17,
-      title: 'Projeto 17',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 17
-    },
-    {
-      id: 18,
-      title: 'Projeto 18',
-      description: '',
-      imageUrl: '/images/test4.jpg',
-      link: '/project4', // Link para a página do Projeto 18
+      title: 'Aplicativo Expo Comentários',
+      description: 'Aplcativo Expo que permite visualizar e salvar comentários de usuários.',
+      imageUrl: '/images/Main.png',
+      link: '/project15', // Link para a página do Projeto 15
     },
   ];
 
@@ -164,7 +136,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2, duration: 0.8 }}
           >
-            Aqui estão alguns dos meus projetos mais recentes com foco em desenvolvimento front-end, automação e dados.
+            Aqui estão alguns dos meus projetos realizados.
           </motion.p>
         </div>
 

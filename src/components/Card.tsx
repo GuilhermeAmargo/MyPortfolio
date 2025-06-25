@@ -13,12 +13,12 @@ const Card: React.FC<CardProps> = ({ title, description, imageUrl, link }) => {
   return (
     <div className="max-w-sm rounded-lg overflow-hidden shadow-lg">
       <Link href={link}> {/* Tornar o Card clicável e redirecionar para o link */}
-        <div className="relative">
+        <div className="relative h-96">
           {/* Imagem de fundo */}
           <img
             src={imageUrl}
             alt={title}
-            className="w-full h-48 object-cover"
+            className="w-full h-96 object-cover"
           />
           <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div> {/* Camada de cor preta semitransparente */}
           <div className="absolute top-0 left-0 w-full h-full flex flex-col items-center justify-center text-center p-4">

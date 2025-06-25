@@ -69,7 +69,7 @@ export default function Home() {
 
             {/* Botão "Baixar CV" */}
             <a
-              href="/path/to/your/cv.pdf" 
+              href="/Currículo.pdf" 
               download
               className="mt-6 inline-block px-6 py-3 bg-[#6EACDA] hover:bg-[#4f8a9f] text-white font-bold rounded-lg shadow-md transition-all duration-300"
             >
