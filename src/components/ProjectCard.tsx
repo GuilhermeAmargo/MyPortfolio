@@ -21,7 +21,7 @@ export default function ProjectCard({
           <iframe
             src={projectLink}
             title={`Projeto funcional - ${title}`}
-            className="w-full h-full rounded-md"
+            className="w-full h-198 rounded-md"
             allowFullScreen
             loading="lazy"
           />

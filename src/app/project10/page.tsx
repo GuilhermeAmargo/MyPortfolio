@@ -7,14 +7,14 @@ export default function Home() {
     <div className="flex flex-col min-h-screen text-white bg-gradient-to-br from-[#021526] to-[#042f5a]">
       <Header />
 
-      <main className="flex-grow w-full max-w-6xl mx-auto px-4 py-10">
+      <main className="flex-grow w-full max-w-6xl mx-auto px-6 py-12">
         {/* Título principal */}
-        <h2 className="text-3xl font-bold text-center text-[#6EACDA] mb-10">
+        <h2 className="text-4xl font-extrabold text-center text-[#A8C0FF] mb-12 drop-shadow-md">
           Expo AsyncStorage, Câmera, Timer e Map
         </h2>
 
         {/* Cards dos projetos */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 bg-[#578FCA] p-6 rounded-xl shadow-lg">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 bg-gradient-to-tr from-[#3b5998] via-[#6d82b4] to-[#8aa0d6] p-8 rounded-2xl shadow-lg">
           <ProjectCard
             title="Todo"
             description={`Essa página é uma aplicação de lista de tarefas (To-Do List) desenvolvida em React Native. Ela permite ao usuário adicionar, visualizar, marcar como concluídas e remover tarefas. As tarefas são armazenadas localmente usando o AsyncStorage, garantindo que as informações sejam preservadas mesmo após fechar o app. A interface é simples e funcional, com um campo de entrada, botão de adicionar, e uma lista interativa onde o usuário pode gerenciar suas atividades diárias.`}
@@ -38,14 +38,14 @@ export default function Home() {
         </div>
 
         {/* Link do repositório */}
-        <div className="mt-8 text-center">
+        <div className="mt-10 text-center">
           <p className="text-[#E2E2B6] text-lg">
             Repositório no GitHub:{" "}
             <a
               href="https://github.com/GuilhermeAmargo/Expo-App.git"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline hover:text-blue-300 transition"
+              className="underline text-blue-300 hover:text-blue-400 transition-colors duration-300"
             >
               Expo-App
             </a>
